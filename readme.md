@@ -2,13 +2,13 @@
 
 **Teleport your cursor. Supercharge your workflow.**
 
-EdgePort is a lightweight Windows utility that gives your mouse the power of *teleportation*. Designed for multi-monitor setups, ultra-wide screens, or anyone who wants to stop wasting time dragging their cursor across the screen.
+EdgePort is a Windows app that gives your mouse the power of *teleportation*. Designed for ultra-wide screens, or anyone who wants to stop wasting time dragging their cursor across the screen.
 
 ---
 
 ## 🚀 What Does It Do?
 
-With a single hotkey press, **EdgePort** instantly moves your cursor from one edge of the screen to the opposite — left to right, top to bottom, or between monitors.  
+**EdgePort** instantly moves your cursor from one edge of the screen to the opposite — left to right, top to bottom.  
 It’s like *alt-tab* for your mouse.
 
 Perfect for:
@@ -32,28 +32,17 @@ Perfect for:
 
 ## 📦 How to Use
 
-1. **Download** the latest `.exe` from the [Releases](#) section.
-2. Run the app (no installation required).
+1. **Download** the latest `EdgePort.zip` in the files or see Download below
+2. Extract and Run the app (no installation required).
 3. Use the **hotkeys** to teleport your cursor across the screen.
 4. Check the system tray icon to configure behavior or quit.
-
-> ⚠️ This app may open a console window on first launch. A fully silent tray version is coming soon.
 
 ---
 
 ## 📁 Download
 
-👉 [Click here to download the latest version](#)  
+👉 [Click here to download the latest version](https://raw.githubusercontent.com/Talhakhalidawan/EdgePort/refs/heads/main/EdgePort.zip)  
 (Replace the `#` with your GitHub release URL)
-
----
-
-## 💡 Coming Soon
-
-- Customizable hotkeys  
-- Edge detection sensitivity  
-- Mac/Linux support (if there's interest)  
-- Tray-only mode (no terminal)
 
 ---
 
